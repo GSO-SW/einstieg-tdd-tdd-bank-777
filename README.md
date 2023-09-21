@@ -7,3 +7,7 @@ TODO:
 - Bitte überprüfen:
 - Finden Sie Fehler in der Implementierung?
 - Finden Sie "Verbesserungen" in den UserStories?
+
+
+User stories: Beschreibung der Anwendung aus der sicht des Users.
+User story muster: Als [Persona] erwarte ich [Softwareziel], um [Ergebnis] zu erreichen.
